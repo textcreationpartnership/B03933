@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the several impressions, or editions of King Charles the martyr's most excellent book, intituled, Eikōn Basilikē that were printed without the prayers at the end, and some with the prayers, / with a letter transcribed from the original. Written by Mr. William Levet, Page of the Bedchamber in Ordinary to his majesty King Charles the I. he having observed His Majesty oftentimes writing the said book.</title>
+            <author>Levet, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03933</idno>
+            <idno type="STC">Wing K121AA</idno>
+            <idno type="STC">ESTC R221661</idno>
+            <idno type="EEBO-CITATION">52614732</idno>
+            <idno type="OCLC">ocm 52614732</idno>
+            <idno type="VID">175927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175927)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2755:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the several impressions, or editions of King Charles the martyr's most excellent book, intituled, Eikōn Basilikē that were printed without the prayers at the end, and some with the prayers, / with a letter transcribed from the original. Written by Mr. William Levet, Page of the Bedchamber in Ordinary to his majesty King Charles the I. he having observed His Majesty oftentimes writing the said book.</title>
+                  <author>Levet, William.</author>
+                  <author>Keble, Samuel.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Keble ...,</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The words "Eikōn basilikē" in title romanized from Greek.</note>
+                  <note>"To the reader" (p. [3]) signed: Samuel Keble. Signed at end: William Levett.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Imprimatur. Junii 17. 1693. Guil. Lancaster"--P. [1].</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, --  1600-1649 --  Early works to 1800.</term>
+               <term>Eikon basilike --  Bibliography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:175927:1"/>
+            <p>AN ACCOUNT OF THE Several Impreſſions, or Editions of King CHARLES the Martyr's moſt Excellent Book, INTITULED, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> THAT WERE Printed without the Prayers at the End, and ſome with the Prayers, with a Letter Tranſcribed from the Original. Written by Mr. <hi>William Levet,</hi> Page of the Bed-Chamber in Ordinary to His Majeſty King CHARLES the I. he having obſerved His Majeſty oftentimes writing the ſaid Book.</p>
+         </div>
+         <div type="imprimatur">
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <dateline>
+                  <date>Junii 17. 1693.</date>
+               </dateline>
+               <signed>Guil. Lancaſter.</signed>
+            </closer>
+         </div>
+         <div type="list_of_first_editions">
+            <head>Theſe <hi>28</hi> of the firſt Impreſſions or Editions of the King's Book, are Printed without the Prayers.</head>
+            <list>
+               <item>THE 1ſt. Impreſſion in 12<hi rend="sup">o</hi>. printed <hi>Anno Dom.</hi> 1648. laſt pag. 187. Contents one leaf at the end.</item>
+               <item>2 Impreſſion in 8<hi rend="sup">o</hi>. printed 1648. laſt pag. 269. Contents two leaves.</item>
+               <item>3 Impreſſion in 8<hi rend="sup">o</hi>. printed 1648. laſt pag. 269. Contents three leaves.</item>
+               <item>4 Impreſſion in 12<hi rend="sup">o</hi>. printed 1648. laſt pag. 269. Contents three leaves.</item>
+               <item>5 Impreſſion in 12<hi rend="sup">o</hi>. printed 1648. laſt pag. 269. Contents one leaf.</item>
+               <item>6 Impreſſion in 8<hi rend="sup">o</hi>. printed 1648. laſt pag. 268. Contents two leaves.</item>
+               <item>7 Impreſſion in 8<hi rend="sup">o</hi>. Reprinted in <hi>R. M.</hi> 1648. laſt pag. 268. Contents two leaves.</item>
+               <item>8 Impreſſion in 8<hi rend="sup">o</hi>. printed 1648. laſt pag. 270. Contents three leaves.</item>
+               <item>9 Impreſſion in 8<hi rend="sup">o</hi>. printed 1648. with only the Lady <hi>Eliz.</hi> Relation laſt pag. 302. Contents two leaves.</item>
+               <item>10 Impreſſion in 8<hi rend="sup">o</hi>. printed 1648. laſt pag. 242.</item>
+               <item>11 Impreſſion in 8<hi rend="sup">o</hi>. printed 1648. laſt pag. 302. Contents two leaves.</item>
+               <item>12 Impreſſion in 8<hi rend="sup">o</hi>. Reprinted for <hi>James Young</hi> 1648. laſt pag. 268. Contents two leaves.</item>
+               <item>13 Impreſſion in 12<hi rend="sup">o</hi>. printed 1648. laſt pag. 164. Contents one leaf.</item>
+               <item>14 Impreſſion in 12<hi rend="sup">o</hi>. printed 1648. laſt pag. 187. Contents one leaf.</item>
+               <item>15 Impreſſion in 12<hi rend="sup">o</hi>. printed 1648. laſt pag. 225. Contents two leaves.</item>
+               <item>16 Impreſſion in 24<hi rend="sup">o</hi>. printed 1648. laſt pag. 342. Contents two leaves.</item>
+               <item>
+                  <pb facs="tcp:175927:2"/>17 Impreſſion in 24<hi rend="sup">o</hi>. printed 1648. no Pages or Figures. Contents two leaves.</item>
+               <item>18 Impreſſion in 8<hi rend="sup">o</hi>. printed 1649. laſt pag. 204. Contents one leaf.</item>
+               <item>19 Impreſſion in 8<hi rend="sup">o</hi>. printed at <hi>Paris</hi> Engliſh 1649. laſt pag. 196. Contents one leaf.</item>
+               <item>20 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. laſt pag. 264. with Epitaphs.</item>
+               <item>21 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. laſt pag. 195. Cantents one leaf.</item>
+               <item>22 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. in Latin, laſt pag. 272. with Apothegms.</item>
+               <item>23 Impreſſion in 12<hi rend="sup">o</hi>. printed at the <hi>Hague</hi> by <hi>Sam. Brown</hi> 1649 in Lat. laſt pag. 272. Contents two leaves.</item>
+               <item>24 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. at the <hi>Hague</hi> for <hi>Williams</hi> and <hi>Eglesfield,</hi> Lat. laſt pag. 272. Cont. two leaves.</item>
+               <item>25 Impreſſion in 12<hi rend="sup">o</hi>. printed in Latin 1649. laſt pag. 258.</item>
+               <item>26 Impreſſion in 12<hi rend="sup">o</hi>. printed with the Works 1649. laſt pag. 182.</item>
+               <item>27 Impreſſion in 24<hi rend="sup">o</hi>. printed at the <hi>Hague</hi> by <hi>Sam. Brown</hi> 1649. laſt pag. 318. Contents four leaves.</item>
+               <item>28 Impreſſion in 8<hi rend="sup">o</hi>. printed for <hi>R. Royſton</hi> 1681. laſt pag. 256. Contents one leaf.</item>
+            </list>
+         </div>
+         <div type="list_of_second_editions">
+            <head>Theſe <hi>27</hi> of the Second Impreſſions or Editions of the King's Book, Printed with the Prayers.</head>
+            <list>
+               <item>THE 1ſt. Impreſſion in 8<hi rend="sup">o</hi>. printed 1648. laſt pag. 270. the Prayers added in 1649.</item>
+               <item>2 Impreſſion in 24<hi rend="sup">o</hi>. printed 1648. laſt pag. 354.</item>
+               <item>3 Impreſſion in 24<hi rend="sup">o</hi>. printed 1649. laſt pag. 436. Contents two leaves with the Additions of the Prayers.</item>
+               <item>4 Impreſſion in 8<hi rend="sup">o</hi>. printed 1649. laſt pag. 258.</item>
+               <item>5 Impreſſion in 8<hi rend="sup">o</hi>. very large, the beſt printed 1649. the laſt pag. 263. Contents two leaves.</item>
+               <item>6 Impreſſion in 8<hi rend="sup">o</hi>. printed 1649. laſt pag. 236. with Apothegms.</item>
+               <item>7 Impreſſion in 8<hi rend="sup">o</hi>. printed 1649. laſt pag. 247. Prayers added.</item>
+               <item>8 Impreſſion in 8<hi rend="sup">o</hi>. printed 1649. laſt pag. 269. Contents three leaves.</item>
+               <item>9 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. with Apothegms.</item>
+               <item>10 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. in <hi>Dutch.</hi>
+               </item>
+               <item>11 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. in <hi>French,</hi> laſt pag. 442. Contents one leaf and half.</item>
+               <item>12 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. in <hi>French,</hi> laſt pag. 269. Contents two leaves, with ſome of his Works.</item>
+               <item>13 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. laſt pag. 230. Contents one leaf.</item>
+               <item>14 Impreſſion in 12<hi rend="sup">o</hi>. printed 1649. laſt pag. 260<g ref="char:punc">▪</g> Contents one leaf.</item>
+               <item>15 Impreſſion in 24<hi rend="sup">o</hi>. printed 1649. laſt pag. 226.</item>
+               <item>16 Impreſſion in 24<hi rend="sup">o</hi>. printed 1649. laſt pag. 175.</item>
+               <item>17 Impreſſion in 24<hi rend="sup">o</hi>. printed 1649. laſt pag. 354.</item>
+               <item>18 Impreſſion in 8<hi rend="sup">o</hi>. printed at the <hi>Hague</hi> by <hi>Sam. Browne. Reliquiae Sacrae Carolinae</hi> the Works of King <hi>Charles</hi> the I. without date. Laſt pag. 119.</item>
+               <item>19 Impreſſion in 8<hi rend="sup">o</hi>. printed at the <hi>Hague</hi> by <hi>Sam. Brown</hi> 1651. laſt pag. 324.</item>
+               <item>20 Impreſſion in 8<hi rend="sup">o</hi>. of the King's Works in 2 Vol. printed 1659.</item>
+               <item>21 Impreſſion in 24<hi rend="sup">o</hi>. printed at the <hi>Hague</hi> by <hi>Sam. Browne.</hi> in 1657. the King's Works.</item>
+               <item>22 Impreſſion in 24<hi rend="sup">o</hi>. printed in 1651. with the King's Works.</item>
+               <item>23 Impreſſion in 24<hi rend="sup">o</hi>. Reprinted in 1649. <hi>Reg. M.</hi> laſt pag. 181. Contents two leaves.</item>
+               <item>24 Impreſſion in 12<hi rend="sup">o</hi>. of the King's Works printed in 1650. at the <hi>Hague</hi> by <hi>Sam. Browne,</hi> with divers of His Majeſtys Prayers, whereof the three laſt uſed by him in the time of his Reſtraint, were delivered to the Biſhop of <hi>London,</hi> at his death, from whom they were taken away by the Officers of the Army: And amongſt theſe ſix Prayers that entitled to be ſaid in Time of Captivity, and taken out of Sir <hi>Phillip Sidney</hi>'s <hi>Arcadia</hi> is not one of them, however it came to be printed in ſome of them.</item>
+               <item>25 Impreſſion in Folio being the whole Works of King <hi>Charles</hi> the I. and by Order of King <hi>Charles</hi> the II. printed in 1662. for <hi>R. Royſton.</hi>
+               </item>
+               <item>26 Impreſſion in 8<hi rend="sup">o</hi>. large printed in 1685. laſt pag. 272. for <hi>R. Royſton.</hi>
+               </item>
+               <item>27 Impreſſion in Folio being the whole Works of King <hi>Charles</hi> the I. and by Order of King <hi>James</hi> the II. printed in 1686.</item>
+            </list>
+            <p>Place this at the End of the King's Works.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:175927:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>UPON a late Diſpute concerning the Author of the Book, Entituled,</hi> Eikon Baſilike, <hi>it was by ſome affirmed, that they had the firſt Impreſſion of the ſaid Book with Prayers as they are now Printed and added to the End thereof, (by one of the Impreſſions in</hi> 12<hi rend="sup">o</hi>. <hi>of the King's Works, printed in</hi> 1650. <hi>at the</hi> Hague <hi>by</hi> Sam. Browne; <hi>in the ſaid Book are divers of his Majeſty's Prayers, whereof the three laſt uſed by him in the time of his Reſtraint, were delivered to the Biſhop of</hi> London <hi>at his death, from whom they were taken away by the Officers of the Army, and amongſt theſe Six Prayers, that entitled to be ſaid in Time of Captivity, and taken out of Sir</hi> Phillip Sidney<hi>'s</hi> Arcadia, <hi>is not one of them, however it came to be printed and added in ſome Editions of them.) As to which being deſirous to know the Truth as well for my own as others ſatisfaction, I endeavoured to make as full a ſearch as I could, and to that end, did not only enquire at the Bookſellers Shops in</hi> Lon<g ref="char:EOLhyphen"/>don <hi>and</hi> Weſtminſter, <hi>but as far as my Intereſt would permit me, did cauſe to be made ſearch both in Private Libraries of ſeveral Gentlemen, and Divines, and Publick ones at</hi> Oxford, <hi>&amp;c. (having before ſeen ſeveral of thoſe which were affirmed as aforeſaid to be the firſt Edition) where I found the above<g ref="char:EOLhyphen"/>mentioned Twenty Eight ſeveral Impreſſions or Editions of the King's Book without the Prayers, and the Twenty Seven Editions with the Prayers added at the End of the ſaid Book; all which being tranſmitted to me, I took the ſaid Account with all the exactneſs I could, by noting (leſt there ſhould happen any miſtake) the ſize of the Volumn, the time of Printing, the number of Leaves the Contents did conſiſt of, and the number of the Pages, all which I teſtifie under my hand</hi>
+            </p>
+            <closer>
+               <dateline>At the <hi>Turks-head</hi> in <hi>Fleet-ſtreet,</hi>
+                  <date>
+                     <hi>June</hi> the 15th. 1693.</date>
+               </dateline>
+               <signed>SAMUEL KEBLE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>I ſhall inſert a Letter, tranſcribed from the Original, which I have by me, written by Mr. <hi>Levet.</hi>
+            </p>
+            <p>The Superſcription of the ſaid Letter runs thus,
+<floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>For <hi>Seymor Bowman,</hi> 
+                        <abbr>Eſq</abbr> near the Arch in <hi>Lincolns-Inn-Fields.</hi>
+                     </head>
+                     <opener>
+                        <salute>Dear Brother,</salute>
+                        <dateline>Licenſed, <date>
+                              <hi>May</hi> the 10th. 1691.</date> By <hi>Z. Iſham.</hi>
+                        </dateline>
+                     </opener>
+                     <p>YOurs of the 21th. of this inſtant <hi>April</hi> I received, and one Letter before that to the ſame effect, <hi>viz.</hi> To give a true Account of my knowledge of that unparallel'd Book, which his Sacred Majeſty, of ever bleſſed Memory, King <hi>Charles</hi> the Firſt (murdered by his own Rebellious Subjects before his own Palace at <hi>Whitehall,</hi> with all the violent and malitious Circumſtances that Wicked men could invent) which Book, of my certain Knowledge, I can depoſe, was truly His own, having obſerved His Majeſty oftentimes writing His Royal Reſentments of the bold and inſolent behaviour of His Souldiers (His Rebellious Subjects) when they had Him in their cuſtody. I waited on His Majeſty as Page of the Bed-Chamber in ordinary during all the time of His Solitudes, (except when I was forced from Him) and eſpecially being nominated by His Majeſty to be one of His Servants, amongſt others, that ſhould attend Him during the Treaty at <hi>Newport</hi> in the Iſle of <hi>Wight,</hi> had the happineſs to read the ſame oftentimes in Manuſcript under His Majeſty's own Hand, being pleaſed to leave it in the Window in His own Bed-chamber,
+<pb facs="tcp:175927:3"/>
+where I was always obliged to attend His Majeſty's coming thither. But the Treaty being ended in few days after, the Souldiers with one to conduct them, by name Mr. <hi>Anthony Mildmay</hi> then Cup-bearer, came to the Bed-chamber, about Two of the Clock in the Night, and knocked at the Door, and one Mr. <hi>Herbert,</hi> Mr. <hi>Kirk,</hi> and my ſelf having ſome hint of their Intentions, were watching in an inward Room, and hearing the noiſe, went into His Majeſty's Bed-Chamber, and asked, who they were that durſt diſturb His Majeſty at that unſeaſonable time of the Night, who anſwered, they were ſent to tell the King, He muſt riſe and go with them. We acquainting His Majeſty with their Deſign, He was pleaſed to command us to tell them, He would go with them, but it was not His uſual hour to riſe ſo ſoon, we again acquainted the Souldiers with His Majeſty's Anſwer. They inſtead of complying with His Majeſty, bid us tell Him, if He did not riſe preſently, they muſt force Him to it: His Majeſty only ſaid, if I muſt, give me my Cloaths, and ſo He immediately aroſe. (Here you may obſerve a mirror of Pa<g ref="char:EOLhyphen"/>tience in a diſtreſſed Prince.) During the time of His Majeſty's making himſelf ready, he con<g ref="char:EOLhyphen"/>cern'd himſelf only how to ſecure this Book of his, and a ſmall Cabinet, wherein he ſecured his Letters to his Queen, who was then beyond the Sea, and His Majeſty having procured a Paſs for me from the Governour, that I ſhould wait on him there; He gave me in charge this ſaid Book and ſmall Cabinet, which I faithfully preſented to His Majeſty's own hands that Night in <hi>Hurſt-Caſtle.</hi> But the Governour, by what information is too tedious to inſert here at this time, and therefore I omit it, did on the <hi>Saturday</hi> baniſh me out of the Caſtle.</p>
+                     <p>I ſhould have ſent you a Relation which I had from <hi>Royſton,</hi> the King's Printer, for the Printing the ſaid Book by His Majeſty's eſpecial Command, brought to him by a Divine, but not to be<note n="*" place="bottom">By <hi>Printed,</hi> is to be underſtood, <hi>Publiſhed.</hi>
+                        </note> printed till after the King's death, which he obſerved accordingly, for which <hi>Cromwel</hi> ſent for him to <hi>Whitehall,</hi> not only promiſing Rewards, but alſo threatning Puniſh<g ref="char:EOLhyphen"/>ment, if he would not deny, that he printed it by His Majeſty's Order, which he refuſing to do, did impriſon him for about a Fortnight, but ſeeing he could not work upon him, releaſed him; which is all at preſent from</p>
+                     <closer>
+                        <dateline>From <hi>Savernack</hi> Park near <hi>Marlborough,</hi> 
+                           <date>Apr. 29. 1691.</date>
+                        </dateline>
+                        <signed>Your Affectionate Brother, To ſerve you <hi>WILLIAM LEVETT.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Keble</hi> at the <hi>Turks-Head,</hi> in <hi>Fleet-ſtreet,</hi> 1695.</p>
+            <p>
+               <pb facs="tcp:175927:3"/>
+               <hi>LONDON,</hi> Printed by <hi>James Fleſher</hi> for <hi>R. Royſton,</hi> Book<g ref="char:EOLhyphen"/>ſeller to His moſt Sacred MAJESTY. MDCLXII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
